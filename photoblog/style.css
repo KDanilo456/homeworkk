@@ -111,3 +111,12 @@ a[href="/Контакти"]{
 .danilo53[href="info@devstudio.com"]{
     color: var(--blue);
 }
+body{
+    font-family: "Roboto";
+}
+a[href="/WebStudio"]{
+    font-family: "Raleway";
+}
+.navigate-site{
+    font-family: "Raleway";
+}
